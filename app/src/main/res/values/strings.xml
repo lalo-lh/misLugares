@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mis LugaresU</string>
+    <string name="menu_conf">Configuracion</string>
+    <string name="menu_about">Acerca De...</string>
+    <string name="menu_buscar">Buscar</string>
+    <string name="vista_nombre">Nombre del Lugar</string>
+    <string name="vista_lugar">Tipo del Lugar</string>
+    <string name="vista_logo">Logo del tipo</string>
+    <string name="vista_foto">Fotografia</string>
+    <string name="vista_camara">Logo camara</string>
+    <string name="vista_galeria">Logo galeria</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
